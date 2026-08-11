@@ -1,0 +1,11 @@
+﻿ID	Component	English master	French	Swahili	Amharic	Luganda	Status
+COP-001	Hero	AI is easiest to learn by using it.	L’IA s’apprend plus facilement en l’utilisant.	Njia rahisi ya kujifunza AI ni kuitumia.	AIን ለመማር ቀላሉ መንገድ መጠቀም ነው።	Engeri ennyangu ey’okuyiga AI kwe kugikozesa.	Draft - native review required
+COP-002	Key message	If you are unsure ask Copilot.	Si vous avez un doute demandez à Copilot.	Ukiwa na shaka uliza Copilot.	እርግጠኛ ካልሆኑ Copilotን ይጠይቁ።	Bwoba tewekakasa buuza Copilot.	Draft - native review required
+COP-003	Step 1	Open Microsoft 365 Copilot	Ouvrir Microsoft 365 Copilot	Fungua Microsoft 365 Copilot	Microsoft 365 Copilotን ይክፈቱ	Ggulawo Microsoft 365 Copilot	Draft - native review required
+COP-004	Step 2	Try one real task	Essayez une vraie tâche	Jaribu kazi moja halisi	አንድ እውነተኛ ተግባር ይሞክሩ	Gezaako omulimu gumu ogwa ddala	Draft - native review required
+COP-005	Task safety	Type a short non-sensitive task list	Saisissez une courte liste de tâches non sensibles	Andika orodha fupi ya kazi isiyo na taarifa nyeti	ስሱ መረጃ የሌለበት አጭር ዝርዝር ይጻፉ	Wandiika olukalala olumpi olutaliimu bikwata ku bantu	Draft - native review required
+COP-006	Harder tasks	Choose Think Deeper for a difficult task.	Pour une tâche complexe choisissez Think Deeper.	Kwa kazi ngumu chagua Think Deeper.	ለከባድ ተግባር Think Deeperን ይምረጡ።	Ku mulimu omuzibu londa Think Deeper.	Draft - native review required
+COP-007	Verification	Never use an AI answer unchecked.	N’utilisez jamais une réponse d’IA sans la vérifier.	Usitumie kamwe jibu la AI bila kulikagua.	የAI መልስን ሳያረጋግጡ ፈጽሞ አይጠቀሙ።	Tokozesanga ekyokuddamu kya AI nga tonnakikebera.	Draft - native review required
+COP-008	Safety	Five simple rules protect people and Ripple Effect.	Cinq règles simples protègent les personnes et Ripple Effect.	Kanuni tano rahisi hulinda watu na Ripple Effect.	አምስት ቀላል ደንቦች ሰዎችን እና Ripple Effectን ይጠብቃሉ።	Amateeka ataano amangu gakuuma abantu ne Ripple Effect.	Draft - native review required
+COP-009	Help	Get help	Obtenir de l’aide	Pata msaada	እገዛ ያግኙ	Funa obuyambi	Draft - native review required
+COP-010	Navigation	Choose another language	Choisir une autre langue	Chagua lugha nyingine	ሌላ ቋንቋ ይምረጡ	Londa olulimi olulala	Draft - native review required
