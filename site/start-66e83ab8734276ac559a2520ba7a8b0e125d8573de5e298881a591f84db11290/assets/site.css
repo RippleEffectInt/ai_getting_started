@@ -1580,20 +1580,3 @@ footer p {
   .landing-brand { margin-bottom: 48px; }
 }
 
-
-.localisation-review-banner {
-  display: flex;
-  justify-content: center;
-  gap: 10px 24px;
-  align-items: center;
-  flex-wrap: wrap;
-  padding: 11px 24px;
-  color: #5f4300;
-  background: #fff3c0;
-  border-bottom: 1px solid #e2ae00;
-  font-size: 13px;
-}
-.localisation-review-banner strong { font-weight: 800; }
-.localisation-review-banner span { color: #6d6250; }
-
-

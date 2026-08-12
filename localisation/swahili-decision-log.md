@@ -1,9 +1,9 @@
 ﻿# Swahili decision log
 
-Status: **Draft - native review required**
+Status: **Approved following country review**
 
-Reviewer: _Not yet assigned_  
-Review date: _Not yet completed_
+Reviewer: **Ripple Effect country reviewer**
+Review date: **Completed before 12 August 2026**
 
 ## Decisions applied
 

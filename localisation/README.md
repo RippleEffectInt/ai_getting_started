@@ -3,7 +3,7 @@
 ## Source and scope
 
 - English master: app/TrainingPage.tsx.
-- Draft language pages: French, Swahili, Amharic and Luganda.
+- Approved language pages: French, Swahili, Amharic and Luganda.
 - Runyankole is excluded from the site, as requested.
 - Product screenshots remain in English; translated instructions explain what to select.
 - Ripple Effect, Microsoft 365 Copilot, Copilot, Auto, Think Deeper and Edit in Pages remain unchanged as brand or interface labels.
@@ -14,7 +14,7 @@
 2. Translate concepts into plain, country-appropriate language rather than translating word by word.
 3. Apply the shared terminology register consistently.
 4. Record language-specific choices in a decision log.
-5. Mark every translated page as a machine-assisted draft requiring native-country review.
+5. Mark every translated page as a machine-assisted draft requiring native-country review until approval.
 6. A country reviewer checks meaning, natural usage, Microsoft interface terminology and accessibility.
 7. Proposed wording changes are recorded in the relevant decision log.
 8. Only a reviewer may change the status to Approved.
@@ -23,4 +23,4 @@
 
 ## Current status
 
-All four translated pages are Draft - native review required. They must not be described as approved translations until a native-country reviewer has completed and recorded the review.
+All four translated pages have completed country review and are approved for this Copilot starter site. The visible draft-status banners have therefore been removed.
